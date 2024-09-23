@@ -1,0 +1,21 @@
+{
+  "name": "solaris-light",
+  "displayName": "Solaris Light",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "solaris-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solaris-light-color-theme.json"
+      }
+    ]
+  }
+}
